@@ -1,5 +1,6 @@
 import * as ex from "excalibur";
 import { Level1 } from "./scenes/level1";
+import { Duck } from "./actors/duck";
 
 const game = new ex.Engine({
   width: 0,
